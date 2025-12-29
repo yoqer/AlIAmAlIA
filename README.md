@@ -68,3 +68,11 @@ http://WAI.Cam
 
 
 
+La humanidad podra estar traquila si tu eres quien entrenas alguno de los modelos roboticos T; con la personalizacion de la primera libreria TenMINITorch, ideal como base en creacion robotica, para crearla e introducir con ella el cerebro de los conocimientos de tu IA de comunicación con humanidad; como la que todos conocemos que puede estar tan mas presente en nuestras propias mascotas o en los seres vivos, que en ciertos valores sociales, indignos, innaturales, descontrolados, sesgadores o informales.   
+
+
+
+
+
+
+
