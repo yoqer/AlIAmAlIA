@@ -64,6 +64,7 @@ Comienza cuanto antes tu base de conocimiento y no pierdas la oportunidad de rea
 http://WAI.Cam
 
 
+<img width="960" height="960" alt="IMG_20251218_011033" src="https://github.com/user-attachments/assets/01e65cf0-c059-421a-9b17-35c75ee79458" />
 
 
 
