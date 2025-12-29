@@ -45,8 +45,11 @@ Aunque quizas se aprenda igual, igual el uno del otro, pero aqui en esta aventur
 
 
 
-Les dejamos otro pequeño video a la Revision de Pares, de como monstramos hace años en el rodaje de: 
+Les dejamos otro pequeño video a la Revision de Pares, de como monstramos en la realidad hace años en el rodaje de: 
 "Rockefelet el Terrible".
+
+http://carlomaxxine.com/peliculon/rockefelet.htm
+La Actriz Neng Corvus, en papel de Rockefelet, no era un Cuervo, sino una Graja, especie protegida en España, que sufrio una pedrada de una especie invasora. Cayendo tambien herida con la tipica caida de pajaros por la que no pueden andar al abrirseles al patas al caer. Por suerte se recupero y termino su papel.
 
 
 
@@ -54,7 +57,7 @@ https://youtu.be/NhmO54U5_ZU?si=SDt5crxXGANbklWL
 
 
 
-Y por supuesto la librería, que como la anterior pueden instalar en local con Pip, o directamente interactuar en su nueva personalidad cibernetica, en su IA, a su imagen y semejanza, o a su completa avenencia,  y dedicacion.
+Por supuesto esta librería, que como la anterior la pueden instalar en local con Pip, o directamente interactuar en su nueva personalidad cibernetica, en su IA, a su imagen y semejanza, o a su completa avenencia,  y dedicacion.
 
 
 
