@@ -1,4 +1,4 @@
-# AlIAmAlIA
+bu# AlIAmAlIA
 
 
 
@@ -32,10 +32,10 @@ Les recordamos que no es una libreria completa para entrenar el gradiente y hace
 
 La de AlIAmalIA esta algo limitada, en las reiteraciones para lograr su entrenamiento unicamente sobre datos, sin tentar a la naturaleza y basada en patrones, para descifrar y aumentar el conocimiento en base a la inferencia.
 
-Los patrones cortos la capacitan para entrenos rapidos y limitados, aun asi reiterables con las comprobaciones y alineaciones de nuevos datos para converger en efectividad y certeza de comprension y valor humano no sesgado.
+Los patrones cortos la capacitan para entrenos rapidos y limitados, aun asi reiterables con las comprobaciones y alineaciones de nuevos datos para converger en efectividad y certeza de comprension y valor humano completo no sesgado.
 
 
-Lo que biene a significar, que cuanto mas interaciones con tu IA, mas lista sera.
+Lo que biene a significar, que cuanto mas interaciones con tu IA, mas lista sera esta.
 
 
 Como los humanos con cerebros propios repletos de neuronas actuan sin conocimiento sumidos al instinto natural, para crear su propio ser; pero el que la civilización les guia en conjunto, con la educacion y la enseñanza, con los conocimientos impartidos y explicados, con años de paciencia y dedicacion.
@@ -52,7 +52,7 @@ Les dejamos otro pequeño video a la Revision de Pares, de como monstramos en la
 
 http://carlomaxxine.com/peliculon/rockefelet.htm
 
-La Actriz Neng Corvus, en el papel de Rockefelet, no era un Cuervo, sino una Graja, una especie protegida, que sufrio una pedrada de una especie invasora. Cayendo tambien herida con la tipica caida de pajaros por la que no pueden andar al abrirseles al patas al caer. Por suerte se recupero y termino su papel.
+La Actriz Neng Corvus, en el papel de Rockefelet, no era un Cuervo, sino una Graja, una especie protegida, que sufrio una pedrada de una especie invasora. Cayendo tambien herida con la tipica caida de pajaros por la que no pueden andar al abrirseles las patas. Por suerte se recupero y termino su papel.
 
 
 
