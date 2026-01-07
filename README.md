@@ -1,4 +1,4 @@
-bu# AlIAmAlIA
+# AlIAmAlIA
 
 
 
@@ -52,7 +52,7 @@ Les dejamos otro pequeño video a la Revision de Pares, de como monstramos en la
 
 http://carlomaxxine.com/peliculon/rockefelet.htm
 
-La Actriz Neng Corvus, en el papel de Rockefelet, no era un Cuervo, sino una Graja, una especie protegida, que sufrio una pedrada de una especie invasora. Cayendo tambien herida con la tipica caida de pajaros por la que no pueden andar al abrirseles las patas. Por suerte se recupero y termino su papel.
+La Actriz Neng Corvus, en el papel de Rockefelet, no era un Cuervo, sino una Graja, una especie protegida, que sufrio una pedrada de una especie invasora. Cayendo tambien herida con la tipica caida de pajaros por la que no pueden andar al abrirseles las patas. Por suerte se recuperaria y terminaria de rodar su papel.
 
 
 
@@ -61,8 +61,7 @@ https://youtu.be/NhmO54U5_ZU?si=SDt5crxXGANbklWL
 
 
 Por supuesto esta librería, que como la anterior la pueden instalar en local con Pip, o directamente interactuar en su nueva personalidad cibernetica, en su IA, a su imagen y semejanza, o a su completa avenencia,  y dedicacion.
-
-
+[TenMINATorch](https://github.com/yoqer/TenMinaTorch)
 
 
 Comienza cuanto antes tu base de conocimiento y no pierdas la oportunidad de realizar la comunicación multiespecie para hablar nativamente como cualquier ser vivo:
