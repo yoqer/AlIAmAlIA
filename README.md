@@ -61,7 +61,7 @@ https://youtu.be/NhmO54U5_ZU?si=SDt5crxXGANbklWL
 
 
 Por supuesto esta librería, que como la anterior la pueden instalar en local con Pip, o directamente interactuar con su nueva personalidad cibernetica, en su IA, a su imagen y semejanza, o a su completa avenencia, uso y dedicacion.
-[TenMINATorch](https://github.com/yoqer/TenMinaTorch)
+[TenMINATorch](https://github.com/yoqer/TenMINATorch)
 
 
 Comienza cuanto antes tu base de conocimiento y no pierdas la oportunidad de realizar la comunicación multiespecie para hablar nativamente como cualquier ser vivo:
@@ -74,7 +74,7 @@ http://WAI.Cam
 
 
 
-La humanidad podra estar traquila si tu eres quien entrenas alguno de los modelos roboticos T; con la personalizacion de la primera libreria [TenMiNiTorch,](https://github.com/yoqer/TenMiniTorch) ideal como base en creacion robotica, para crearla e introducir con ella el cerebro de los conocimientos de tu IA de comunicación con humanidad; como la que todos conocemos que puede estar tan mas presente en nuestras propias mascotas o en los seres vivos, que en ciertos valores sociales, indignos, innaturales, inmorales, duros, descontrolados o sesgadores.   
+La humanidad podra estar traquila si tu eres quien entrenas alguno de los modelos roboticos T; con la personalizacion de la primera libreria [TenMiNiTorch,](https://github.com/yoqer/TenMiniTorch) ideal como base en creacion robotica, para crearla e introducir con ella el cerebro de los conocimientos de tu IA de comunicación con total humanidad; como la que todos conocemos que puede estar tan mas presente en nuestras propias mascotas o en los seres vivos, que en ciertos valores sociales, indignos, innaturales, inmorales, duros, descontrolados o sesgadores.   
 
 
 
