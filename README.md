@@ -20,7 +20,9 @@ En nuestro sistema pueden añadir conocimientos e interacciones, diversas formas
 sumando conocimiento en la libreria personalizada especialmente para ello, podran componer el razonamiento de los conocimientos conocidos por los Llm, para alinearlos en un rapido entreno desde sus bases de datos online y locales, en sus objetivos de difusion del saber y la interacción social.
 
 
-Si lo desean pueden personalizar su propia libreria: Aqui les dejamos enlace a una como la base antes de personalizarse en la comunicación que pueden completar a su gusto y la que usamos de base para personalizarla en la iteracion robotica, a la que podrán dirigir sus entrenamientos en AlIAmalIA.
+Si lo desean pueden personalizar su propia libreria: Aqui les dejamos enlace a una como la base antes de personalizarse en la comunicación que pueden completar a su gusto y la que usamos de base para personalizarla en la iteracion robotica, a la que podrán también dirigir sus entrenamientos en AlIAmalIA.
+
+[TenMiNiTorch](https://github.com/yoqer/TenMiniTorch)
 
 
 
@@ -73,7 +75,7 @@ http://WAI.Cam
 
 
 
-La humanidad podra estar traquila si tu eres quien entrenas alguno de los modelos roboticos T; con la personalizacion de la primera libreria TenMINITorch, ideal como base en creacion robotica, para crearla e introducir con ella el cerebro de los conocimientos de tu IA de comunicación con humanidad; como la que todos conocemos que puede estar tan mas presente en nuestras propias mascotas o en los seres vivos, que en ciertos valores sociales, indignos, innaturales, inmorales, descontrolados o sesgadores.   
+La humanidad podra estar traquila si tu eres quien entrenas alguno de los modelos roboticos T; con la personalizacion de la primera libreria [TenMiNiTorch,](https://github.com/yoqer/TenMiniTorch) ideal como base en creacion robotica, para crearla e introducir con ella el cerebro de los conocimientos de tu IA de comunicación con humanidad; como la que todos conocemos que puede estar tan mas presente en nuestras propias mascotas o en los seres vivos, que en ciertos valores sociales, indignos, innaturales, inmorales, descontrolados o sesgadores.   
 
 
 
