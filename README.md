@@ -20,7 +20,7 @@ En nuestro sistema pueden añadir conocimientos e interacciones, diversas formas
 sumando conocimiento en la libreria personalizada especialmente para ello, podran componer el razonamiento de los conocimientos conocidos por los Llm, para alinearlos en un rapido entreno desde sus bases de datos online y locales, en sus objetivos de difusion del saber y la interacción social.
 
 
-Si lo desean pueden personalizar su propia libreria: Aqui les dejamos enlace a una como la base antes de personalizarse en la comunicación que pueden completar a su gusto y la que usamos de base para personalizarla en la iteracion robotica, a la que podrán también dirigir sus entrenamientos en AlIAmalIA.
+Si lo desean pueden personalizar su propia libreria: Aqui les dejamos enlace a una como la base antes de personalizarse en la comunicación que pueden completar a su gusto y la que usamos de base para personalizarla en la iteracion robotica, para la que también podrán dirigir sus entrenamientos de AlIAmalIA.
 
 [TenMiNiTorch](https://github.com/yoqer/TenMiniTorch)
 
