@@ -60,7 +60,7 @@ https://youtu.be/NhmO54U5_ZU?si=SDt5crxXGANbklWL
 
 
 
-Por supuesto esta librería, que como la anterior la pueden instalar en local con Pip, o directamente interactuar en su nueva personalidad cibernetica, en su IA, a su imagen y semejanza, o a su completa avenencia,  y dedicacion.
+Por supuesto esta librería, que como la anterior la pueden instalar en local con Pip, o directamente interactuar con su nueva personalidad cibernetica, en su IA, a su imagen y semejanza, o a su completa avenencia, uso y dedicacion.
 [TenMINATorch](https://github.com/yoqer/TenMinaTorch)
 
 
