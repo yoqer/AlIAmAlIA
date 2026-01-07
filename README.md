@@ -12,7 +12,7 @@ https://youtu.be/D8GOeCFFby4?si=LSPVjCaprVO5mnbr
 
 Al hablarles de entrenar una IA, no referimos que vayan a poder usar AlIAmalIA, para reentrenar una IA, pero si para perfeccionar esta en la complejidad de la inteligencia.
 
-Dotar de inteligencia, es un paso superior a la creacion de vida, pues una planta en si misma no posee esta y actua como una inmensa máquina cordinada guiada por el instinto, como las especies animales.
+Dotar de inteligencia, es un paso superior a la creacion de vida, pues una planta en si misma no posee esta y actua como una inmensa máquina cordinada guiada por instinto, como las especies animales.
 
 Es aqui donde debemos decir que los usuarios AlIAmalIA no reentrenaran IAs o los modelos que decidan con la completa Grokking teoría, sino que con la biblioteca creada para ello, personalizaran en formas diversas la inteligencia como la naturaleza crea en un solo entrenamiento en cada etapa, pero el que pueden crecer en su propio rumbo y hayar muy diversos destinos de IAs Autonomas y AGIs diversas.
 
@@ -20,7 +20,7 @@ En nuestro sistema pueden añadir conocimientos e interacciones, diversas formas
 sumando conocimiento en la libreria personalizada especialmente para ello, podran componer el razonamiento de los conocimientos conocidos por los LLM, para alinearlos en un rapido entreno desde sus bases de datos online y locales, en sus objetivos de difusion del saber y la interacción social.
 
 
-Si lo desean pueden personalizar su propia libreria: Aqui les dejamos enlace a una como la base antes de personalizarse en la comunicación que pueden completar a su gusto y la que usamos de base para personalizarla en la iteracion robotica, para la que también podrán dirigir y personalizar sus entrenamientos de AlIAmalIA.
+Si lo desean pueden personalizar su propia libreria: Aqui les dejamos enlace a una como la base antes de personalizarse en la comunicación que pueden completar a su gusto y la que usamos de base para personalizarla en la iteracion robotica, para la que también podrán dirigir y personalizar entrenamientos de AlIAmalIA.
 
 [TenMiNiTorch](https://github.com/yoqer/TenMiniTorch)
 
