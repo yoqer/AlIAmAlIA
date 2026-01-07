@@ -16,8 +16,8 @@ Dotar de inteligencia, es un paso superior a la creacion de vida, pues una plant
 
 Es aqui donde debemos decir que los usuarios AlIAmalIA no reentrenaran IAs o los modelos que decidan con la completa Grokking teoría, sino que con la biblioteca creada para ello, personalizaran en formas diversas la inteligencia como la naturaleza crea en un solo entrenamiento en cada etapa, pero el que pueden crecer en su propio rumbo y hayar muy diversos destinos de IAs Autonomas y AGIs diversas.
 
-En nuestro sistema pueden añadir conocimientos e interacciones, formas comunicativas y expresivas;  y entrenar para fine-tuning a modelos diversos de sabiduria y conocimientos, <img width="1920" height="1920" alt="IMG_20251218_002556" src="https://github.com/user-attachments/assets/28468201-bc27-401a-a0f4-26239d59806b" />
-con nuestra libreria personalizada especialmente para ello podran componer el razonamiento de los conocimientos conocidos por los Llm, para alinearlos en un rapido entreno desde sus bases de datos online y locales, en sus objetivos de difusion del saber y la interacción social.
+En nuestro sistema pueden añadir conocimientos e interacciones, diversas formas comunicativas y expresivas;  y entrenar para fine-tuning a los modelos diversos de sabiduria, <img width="1920" height="1920" alt="IMG_20251218_002556" src="https://github.com/user-attachments/assets/28468201-bc27-401a-a0f4-26239d59806b" />
+sumando conocimiento en la libreria personalizada especialmente para ello, podran componer el razonamiento de los conocimientos conocidos por los Llm, para alinearlos en un rapido entreno desde sus bases de datos online y locales, en sus objetivos de difusion del saber y la interacción social.
 
 
 Si lo desean pueden personalizar su propia libreria: Aqui les dejamos enlace a una como la base antes de personalizarse en la comunicación que pueden completar a su gusto y la que usamos de base para personalizarla en la iteracion robotica, a la que podrán dirigir sus entrenamientos en AlIAmalIA.
