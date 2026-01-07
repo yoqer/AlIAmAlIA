@@ -49,7 +49,8 @@ Les dejamos otro pequeño video a la Revision de Pares, de como monstramos en la
 "Rockefelet el Terrible".
 
 http://carlomaxxine.com/peliculon/rockefelet.htm
-La Actriz Neng Corvus, en papel de Rockefelet, no era un Cuervo, sino una Graja, especie protegida en España, que sufrio una pedrada de una especie invasora. Cayendo tambien herida con la tipica caida de pajaros por la que no pueden andar al abrirseles al patas al caer. Por suerte se recupero y termino su papel.
+
+La Actriz Neng Corvus, en el papel de Rockefelet, no era un Cuervo, sino una Graja, una especie protegida, que sufrio una pedrada de una especie invasora. Cayendo tambien herida con la tipica caida de pajaros por la que no pueden andar al abrirseles al patas al caer. Por suerte se recupero y termino su papel.
 
 
 
