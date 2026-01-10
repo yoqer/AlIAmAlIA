@@ -41,7 +41,7 @@ Lo que biene a significar, que cuanto mas interaciones con tu IA, mas lista sera
 Como los humanos con cerebros propios repletos de neuronas actuan sin conocimiento sumidos al instinto natural, para crear su propio ser; pero el que la civilización les guia en conjunto, con la educacion y la enseñanza, con los conocimientos impartidos y explicados, con años de paciencia y dedicacion.
 
 Y como suele decirse: 
-"Se Aprende mas siendo el Maestro, que el Alumno."
+"Se Aprende mas siendo Maestro, que Alumno."
 
 Aunque quizas se aprenda igual, igual el uno del otro, pero aqui en esta aventura de los Llms de comunicación, tu rol es de Master, el de formar a tu IA para que pueda crecer como tu lo harías.
 
@@ -79,6 +79,23 @@ La humanidad podra estar traquila si tu eres quien entrenas alguno de los modelo
 
 
 
+__________________________________________________________________________________________
 
+
+# Recursos
+
+
+-Puedes activar directamente la comunicación de datos de forma Online, o con la App para Windows, Linux, Mac, Android e IOs, en local.
+
+-La plataforma es Open Source por lo que puedes usarla de forma local recolectado; y guardando o enviando luego datos que requieras entrenar.
+
+-Tan solo necesitas un dispositivo con WebCam, Camara Conectada o Terminal de Grabacion con Sensor de Movimiento; la Plataforma reconoce patrones y activa funciones siempre que este conectada, pudiendola añadir unas u otras funcionalidades como para el reconocimiento coductual, sonico, facial, dactilar, cierta movilidad
+o comportamiento entrenado.
+Pudiendo asi activar de modo Agentico Programaciones muy diversas, y reacciones NPL.
+
+
+
+
+-Tambien puedes adquirir alguna de las ultimas novedades para monitoreo Animal con actividad IA;        -E incluir AlIAmAlIA, bien como App de escritorio y dispositivo, o mediante la integracion de la plataforma Online. La version de la App aunque menos extensa que la Plataforma, actualiza datos adquiridos cuando se procesa la conexión web, por lo que tus datos se actualizan para el reentrenamiento, momento para cual también puedes subir datos y archivos incleyendo nuevas carasteristicas para formacion de modelos de comunicación especificos. Aqui encontraras versiones de monitoreo animal lanzadas en 2.026, para aves silvestres y dormideras de especies domesticas: CES 2.026. [<img width="1920" height="1920" alt="IMG_20251218_003049" src="https://github.com/user-attachments/assets/1e31e9a9-2885-4530-ad4c-cd71f2b5f3a6" />](https://youtu.be/yBdmdP2S7C8?si=5BZj7-ZoxDHTtFwJ)
 
 
