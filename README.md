@@ -90,7 +90,7 @@ ________________________________________________________________________________
 
 -Puedes activar directamente la comunicación de datos de forma Online, o con la App para Windows, Linux, Mac, Android e IOs, en local.
 
--La plataforma es Open Source por lo que puedes usarla de forma local recolectando; y guardando o enviando luego los datos que requieras entrenar.
+-La plataforma es Open Source por lo que puedes usarla de forma local recolectando; y guardando o enviando luego datos que requieras entrenar.
 
 -Tan solo necesitas un dispositivo con WebCam, Camara Conectada o Terminal de Grabacion con Sensor de Movimiento; la Plataforma reconoce patrones y activa funciones siempre que este conectada, pudiendola añadir unas u otras funcionalidades como para el reconocimiento coductual, sonico, facial, dactilar, cierta movilidad
 o comportamiento entrenado.
