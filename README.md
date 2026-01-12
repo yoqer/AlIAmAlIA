@@ -101,7 +101,7 @@ Pudiendo asi activar de modo Agentico Programaciones muy diversas; y reacciones 
 
 -Tambien puedes adquirir alguna de las ultimas novedades para monitoreo Animal con actividad IA;        -E incluir AlIAmAlIA, bien como App de escritorio y dispositivo; o mediante la integracion de la plataforma Online. La version de la App aunque menos extensa que la Plataforma, actualiza datos adquiridos cuando se procesa la conexión web, por lo que tus datos se pueden actualizar para nuevos reentrenamientos; momento para el cual también puedes subir mas datos y archivos incluyendo caracteristicas para formacion de modelos de comunicación especificos. 
 
-Aqui encontraras versiones de monitoreo animal lanzadas en 2.026, para aves silvestres y dormideras para especies domesticas:  CES 2.026 
+Aqui encontraras versiones de monitoreo animal lanzadas en 2.026, para aves silvestres y dormideras para especies domesticas: W CES:
 [<img width="1920" height="1920" alt="IMG_20251218_003049" src="https://github.com/user-attachments/assets/1e31e9a9-2885-4530-ad4c-cd71f2b5f3a6" />](https://youtu.be/yBdmdP2S7C8?si=5BZj7-ZoxDHTtFwJ)
 
 
